@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
