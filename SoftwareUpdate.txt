@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
