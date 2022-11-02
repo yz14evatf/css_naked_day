@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Compare plt.get_backend() in lowercase (#8409)
