@@ -1,1 +1,1 @@
-fix resume training
+Update Twitter icon in Docs (#7711)
