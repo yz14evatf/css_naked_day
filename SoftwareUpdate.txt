@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
