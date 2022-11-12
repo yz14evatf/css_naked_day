@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
