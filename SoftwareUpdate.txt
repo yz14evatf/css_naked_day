@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add new YOLOv8 OBB model metrics (#7379)
