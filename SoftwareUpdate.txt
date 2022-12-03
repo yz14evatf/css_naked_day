@@ -1,1 +1,1 @@
-example Google Colab
+Add TensorBoard Docs integrations page (#7248)
