@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix xyxyxyxyn calculation, swap axis (#8249)
