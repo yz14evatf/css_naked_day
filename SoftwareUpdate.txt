@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
