@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Tracker: clean up GMC (#8003)
