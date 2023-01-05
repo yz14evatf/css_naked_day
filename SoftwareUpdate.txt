@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
