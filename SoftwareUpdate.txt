@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
