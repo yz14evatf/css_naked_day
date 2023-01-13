@@ -1,1 +1,1 @@
-fix print val map
+Add PaddlePaddle Docs Integrations Page (#8858)
