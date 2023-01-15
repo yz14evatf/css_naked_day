@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
