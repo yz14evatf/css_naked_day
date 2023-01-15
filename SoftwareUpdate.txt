@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
