@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Compress docs images (#8124)
