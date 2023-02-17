@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
