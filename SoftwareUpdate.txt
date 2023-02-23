@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
