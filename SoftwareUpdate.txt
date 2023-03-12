@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+New test for labels and crops (#8861)
