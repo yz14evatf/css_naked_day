@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add docs guide terminal images (#8819)
