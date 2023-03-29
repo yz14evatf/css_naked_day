@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
