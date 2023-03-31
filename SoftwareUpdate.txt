@@ -1,1 +1,1 @@
-fix resume training
+Update the heatmap module code + docs (#7045)
