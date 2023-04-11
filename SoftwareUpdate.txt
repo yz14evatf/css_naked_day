@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
