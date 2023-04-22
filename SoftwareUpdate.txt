@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+* fix for KeyError: 'epoch'
