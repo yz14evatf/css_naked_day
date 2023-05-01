@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
