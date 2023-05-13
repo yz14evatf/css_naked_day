@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
