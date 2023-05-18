@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add missing single-line docstrings (#8362)
