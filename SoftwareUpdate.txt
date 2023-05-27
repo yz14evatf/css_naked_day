@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix heatmaps width-height order bug (#7184)
