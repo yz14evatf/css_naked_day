@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
