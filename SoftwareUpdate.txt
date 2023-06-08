@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Pass callbacks to validator (#7320)
