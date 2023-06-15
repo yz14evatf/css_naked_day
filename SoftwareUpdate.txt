@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
