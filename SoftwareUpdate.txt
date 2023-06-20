@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
