@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
