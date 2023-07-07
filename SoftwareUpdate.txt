@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update TFLite Docs images (#8605)
