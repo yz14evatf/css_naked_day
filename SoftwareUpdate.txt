@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+docs: update view-results-in-terminal.md (#66)
