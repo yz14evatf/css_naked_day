@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Resize angle, count, and stage on keypoint number change (#7598)
