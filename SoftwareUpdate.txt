@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
