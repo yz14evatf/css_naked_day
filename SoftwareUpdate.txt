@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
