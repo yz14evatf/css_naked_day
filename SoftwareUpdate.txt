@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
