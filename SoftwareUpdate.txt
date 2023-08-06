@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
