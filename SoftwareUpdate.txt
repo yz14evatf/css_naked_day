@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
