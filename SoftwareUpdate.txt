@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+* fix for predicting with batch_size > 1
