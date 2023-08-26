@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add simple-utilities.md Docs page (#8269)
