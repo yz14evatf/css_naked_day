@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update Docs Home and Neural Magic pages (#7243)
