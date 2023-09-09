@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+OpenVino 2024.0.0 (#8726)
