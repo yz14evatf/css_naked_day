@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Compare plt.get_backend() in lowercase (#8409)
