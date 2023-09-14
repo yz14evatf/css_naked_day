@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.0.229 add model.embed() method (#7098)
