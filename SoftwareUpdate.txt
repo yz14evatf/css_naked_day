@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Fix cmake requirements for ARM64 (#8589)
