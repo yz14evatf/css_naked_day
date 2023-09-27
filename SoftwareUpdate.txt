@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add dota8.yaml and O tests (#7394)
