@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
