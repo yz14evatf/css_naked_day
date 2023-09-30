@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add visuals in guides/distance-calculation.md (#7876)
