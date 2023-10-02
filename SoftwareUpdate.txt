@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add ONNX Docs integrations page (#7802)
