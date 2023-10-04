@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Auto-format by https://ultralytics.com/actions
