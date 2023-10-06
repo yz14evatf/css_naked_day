@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
