@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
