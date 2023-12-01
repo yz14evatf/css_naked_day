@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
