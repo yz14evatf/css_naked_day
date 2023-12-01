@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add docstrings to new HUB functions (#7576)
