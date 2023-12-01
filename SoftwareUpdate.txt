@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
