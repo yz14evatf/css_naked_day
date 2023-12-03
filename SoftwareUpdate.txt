@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Resize angle, count, and stage on keypoint number change (#7598)
