@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add Amazon Sagemaker Docs integrations page (#7293)
