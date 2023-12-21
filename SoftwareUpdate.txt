@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Merge pull request #22 from SkalskiP/patch-1
