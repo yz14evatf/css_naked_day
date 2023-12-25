@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+OBB: Fix when training on zip data (#8680)
