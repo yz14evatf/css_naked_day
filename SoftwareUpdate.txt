@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+OBB: update metrics (#7593)
