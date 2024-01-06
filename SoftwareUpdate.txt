@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
