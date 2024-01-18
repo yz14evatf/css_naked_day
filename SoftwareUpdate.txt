@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
