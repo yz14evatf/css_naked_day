@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Segment TensorRT batch=3 fix (#7952)
