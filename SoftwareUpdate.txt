@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Move Explorer tests to scheduled CI (#8305)
