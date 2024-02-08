@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Hold failed upload metrics and upload with next upload metrics (#8513)
