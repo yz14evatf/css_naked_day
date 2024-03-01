@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add PR Summary step to Ultralytics Actions (#7675)
