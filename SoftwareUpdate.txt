@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Explorer with LanceDB, Actions and Docs updates (#7487)
