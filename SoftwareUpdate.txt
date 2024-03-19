@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
