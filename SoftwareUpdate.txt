@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
