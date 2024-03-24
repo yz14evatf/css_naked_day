@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add estimate_speed(region_color) parameter (#8285)
