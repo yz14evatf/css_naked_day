@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
