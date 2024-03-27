@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Remove JAX constraints in Exporter (#8309)
