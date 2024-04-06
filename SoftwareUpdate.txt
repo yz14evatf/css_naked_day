@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+OBB Docs updates (#7512)
