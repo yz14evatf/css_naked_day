@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
