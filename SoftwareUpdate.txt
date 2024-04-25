@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
