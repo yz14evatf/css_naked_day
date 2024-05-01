@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update fraction arg to employ a random selection (#8234)
