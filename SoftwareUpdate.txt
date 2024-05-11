@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+ultralytics 8.0.229 add model.embed() method (#7098)
